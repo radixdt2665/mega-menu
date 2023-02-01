@@ -1,0 +1,40 @@
+/* multidropdown css start */
+/* 
+.multi-dropdown .sub-menu{position: relative;}
+.multi-dropdown .sub-menu-ul{position: absolute;display: none;top: 100%;background-color: #eee;padding: 10px;width: 150px;}
+.multi-dropdown .sub-menu:hover .sub-menu-ul{display: block;}
+.multi-dropdown .super-sub-ul{display: none;width: 250px;}
+.multi-dropdown .sub-link:hover .super-sub-ul{display: block;}
+.multi-dropdown .sub-menu li a{color: rgba(0,0,0,.55);text-decoration: none;}
+.multi-dropdown .sub-menu li a:hover{color: rgba(0,0,0,.7);} */
+
+/* multidropdown css end */
+
+
+
+
+/* mega menu css start */
+
+.bg-light-grey{background-color: #eee;}
+.mega-menu .mega-menu-main{position: absolute;left: 0;width: 100%;display: none;top: 100%;}
+.mega-menu .sub-menu:hover .mega-menu-main{display: block;}
+.mega-menu .mega-menu-main a{color: rgba(0,0,0,.55);text-decoration: none;}
+.mega-menu .mega-menu-main a:hover{color: rgba(0,0,0,.7);} 
+
+
+
+
+.sub-menu-nested{position: relative;}
+.sub-menu-nested .sub-menu-ul{position: absolute;display: block;top: 100%;background-color: #eee;padding: 10px;width: 150px;}
+.sub-menu-nested:hover .sub-menu-ul{display: block;}
+.sub-menu-nested li a{color: rgba(0,0,0,.55);text-decoration: none;}
+.sub-menu-nested li a:hover{color: rgba(0,0,0,.7);} 
+.super-sub-ul{display: none;width: 250px;}
+.sub-link:hover .super-sub-ul{display: block;}
+.sub-menu-nested .sub-menu-ul .sub-link{position: relative;}
+.sub-menu-nested .sub-menu-ul .super-sub-ul{position: absolute;top: 0;background-color: #eee;left: 100%;}
+
+
+/* mega menu css end */
+
+
